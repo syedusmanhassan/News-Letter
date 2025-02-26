@@ -6,7 +6,7 @@ import { fileURLToPath } from 'url';
 import { error } from "console";
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
-const api_key = "usman 6237f08aee4d722f4c72bf972d33b075-us15"
+const api_key = "YOUR API KEY"
 
 const config ={ 
     headers : {"Authorization" : `${api_key}`}
