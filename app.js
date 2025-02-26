@@ -70,5 +70,3 @@ app.listen(process.env.PORT || port ,()=>{
     console.log(`listening on port ${port}`);
 });
 
-// 6237f08aee4d722f4c72bf972d33b075-us15
-// 6e5963648c
